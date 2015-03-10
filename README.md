@@ -3,10 +3,17 @@ This is a simple ping-pong game  written in BASH.
 Controls:
 
 LeftUp - q
+
 LeftDn - a
 
+
+
 RghtUp - p
+
 RghtDn - l
+
+
+
 
 Usage:
 
