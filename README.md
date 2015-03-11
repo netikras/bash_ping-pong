@@ -17,6 +17,6 @@ RghtDn - l
 
 Usage:
 
-./bash_ping-pong <speed>
+./bash_ping-pong speed
 
-<speed> values -- number [1; 20]
+speed values -- number [1; 20]
